@@ -10,7 +10,7 @@ function buildTable(data){
     
     // Next, loop through each object in the data
     // and append a row and cells for each value in the row
-    data.forEach(element => {
+    data.forEach((dataRow) => {
     
         let row = tbody.append("tr");
 
@@ -32,7 +32,7 @@ function handleClick() {
     // Check to see if a date was entered and filter the
     // data using that date.
     if (date) {
-        filteredData = filteredData.filter(row=> row.datetime === date):
+        filteredData = filteredData.filter(row=> row.datetime === date);
 
     };
 
