@@ -46,32 +46,32 @@ Follow the instructions below and the numbered comments in the starter code to c
 1.  
 
 - UFO sightings initial load
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/June_Temps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings.png)
 
 - UFO sightings with Date filter
     1.  Enter a date and press enter.
         -   The table data will be filtered on that date.
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/December_Temps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings_date_filter.png)
 
 - UFO sightings with Date and state filter
     1.  Enter a date and state code and press enter.
         -   The table data will be filtered on that date and state.
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/June_Prcps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings_dateAndState_filter.png)
  
 - UFO sightings with Date,State and Shape filter
     1.  Enter a date,state code and shape press enter.
         -   The table data will be filtered on that date,state and shape.
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/June_Prcps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings_DateStateShape_filter.png)
 
 - UFO sightings with Date,State,Shape and City filter
     1.  Enter a date,state code, shape and city press enter.
         -   The table data will be filtered on that date,state, shape and city. 
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/June_Prcps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings_DateStateShapeCity_filter.png)
 
 - UFO sightings with country filter
     1.  Enter a country code press enter.
         -   The table data will be filtered on that country. 
-    ![image_name](https://github.com/raneymjohnGit/surfs_up/blob/main/Resources/June_Prcps.png)
+    ![image_name](https://github.com/raneymjohnGit/UFOs/blob/main/static/Images/UFO_Sightings_Country_filter.png)
 
 ## UFO sightings-Analysis Summary
 
